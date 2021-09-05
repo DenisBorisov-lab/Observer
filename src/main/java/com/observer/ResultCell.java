@@ -1,4 +1,4 @@
-package com.decorator;
+package com.observer;
 
 import java.util.HashMap;
 import java.util.Map;
